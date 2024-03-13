@@ -8,7 +8,7 @@
   {
     "category": "Memory",
     "score": 92,
-    "icon": "./assets/images/icon-memory.svg",
+    "icon": "src/assets/images/icon-memory.svg",
     "alt": "brain icon"
   },
   {
