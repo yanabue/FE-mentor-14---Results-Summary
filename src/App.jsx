@@ -1,11 +1,14 @@
-// import { useState } from 'react'
-// import reactLogo from './assets/react.svg'
-// import viteLogo from '/vite.svg'
-import './App.css'
+import ResultLeft from './ResultLeft'
+import ResultRight from './ResultRight'
 
 function App() {
 
-  return ()
+  return (
+    <main className="main">
+      <ResultLeft />
+      <ResultRight />
+    </main>
+  )
 }
 
 export default App

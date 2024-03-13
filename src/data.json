@@ -2,21 +2,25 @@
   {
     "category": "Reaction",
     "score": 80,
-    "icon": "./assets/images/icon-reaction.svg"
+    "icon": "./src/assets/images/icon-reaction.svg",
+    "alt": "thunder icon"
   },
   {
     "category": "Memory",
     "score": 92,
-    "icon": "./assets/images/icon-memory.svg"
+    "icon": "./src/assets/images/icon-memory.svg",
+    "alt": "brain icon"
   },
   {
     "category": "Verbal",
     "score": 61,
-    "icon": "./assets/images/icon-verbal.svg"
+    "icon": "./src/assets/images/icon-verbal.svg",
+    "alt": "talking bubble icon"
   },
   {
     "category": "Visual",
     "score": 72,
-    "icon": "./assets/images/icon-visual.svg"
+    "icon": "./src/assets/images/icon-visual.svg",
+    "alt": "eye icon"
   }
 ]
